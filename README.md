@@ -1,4 +1,4 @@
-# SDTP-ViT Small Diameter Telecommunicaiton Pipe Vision Transformer Dataset
+# SDTP-ViT Small Diameter Telecommunication Pipe Vision Transformer Dataset
 
 This repository contains the dataset images of our ICIEA paper (https://drive.google.com/drive/folders/1LK7D53x_mDuSB6cEtMEXd0bOXRAsNilv?usp=sharing)
 
